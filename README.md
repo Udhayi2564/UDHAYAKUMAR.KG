@@ -1,20 +1,12 @@
+<!-- ========================================================= -->
 
+<!--                  PREMIUM PROFILE HEADER                   -->
 
-<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descAlignY=62&descSize=18&descColor=E2E8F0&animation=twinkling&color=0:0F172A,100:2563EB" width="100%" alt="Header"/>
-</p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=850&height=60&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Backend+Developer;API+Testing+%26+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLMs;Building+Reliable+Software+Systems" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=1000&height=100&lines=UDHAYA+KUMAR+K+G;Software+Engineering+%7C+AI+%26+Data+Science;Backend+Development+%7C+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLM+Applications" alt="Typing Animation"/>
 </p>
-
-<!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
@@ -48,7 +40,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 
 ---
 
-## 🏢 Professional Experience
+# 🏢 Professional Experience
 
 ### 🔹 Software & AI Engineering Research Intern
 
@@ -80,7 +72,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Java • Python • SQL • JavaScript</b>
+  <b>Java</b> • <b>Python</b> • <b>SQL</b> • <b>JavaScript</b>
 </p>
 
 ---
@@ -92,7 +84,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Spring Boot • Spring Data JPA • REST APIs • FastAPI • Flask</b>
+  <b>Spring Boot</b> • <b>Spring Data JPA</b> • <b>REST APIs</b> • <b>FastAPI</b> • <b>Flask</b>
 </p>
 
 ---
@@ -104,7 +96,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>PostgreSQL • MySQL</b>
+  <b>PostgreSQL</b> • <b>MySQL</b>
 </p>
 
 ---
@@ -116,7 +108,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Machine Learning • NLP • LLM Applications • TensorFlow • Pandas • NumPy • Scikit-learn</b>
+  <b>Machine Learning</b> • <b>NLP</b> • <b>LLM Applications</b> • <b>TensorFlow</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Scikit-learn</b>
 </p>
 
 ---
@@ -142,7 +134,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Git • GitHub • Docker • VS Code • Linux</b>
+  <b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>VS Code</b> • <b>Linux</b>
 </p>
 
 ---
@@ -277,10 +269,14 @@ I believe in learning through practical implementation, solving real-world probl
 
 ---
 
-<!-- ===================== PREMIUM ANIMATED FOOTER ===================== -->
+<!-- ========================================================= -->
+
+<!--                     PREMIUM FOOTER                        -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=0:2563EB,100:0F172A" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0F172A&animation=twinkling" width="100%" alt="Footer"/>
 </p>
 
 <p align="center">
