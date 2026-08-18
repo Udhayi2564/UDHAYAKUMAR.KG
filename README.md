@@ -1,3 +1,4 @@
+UDHAYA KUMAR K G
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
@@ -193,36 +194,7 @@ AI & Data
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udhayi2564&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayi2564&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Udhayi2564&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udhayi2564&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Udhayi2564&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
 
 ---
 
@@ -288,20 +260,8 @@ I believe in learning through practical implementation, solving real-world probl
   <img src="https://img.shields.io/badge/LinkedIn-Udhaya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
 <a href="mailto:udhayi2564@gmail.com">
   <img src="https://img.shields.io/badge/Email-udhayi2564%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/udhaya-kumar-kg-2a5370330/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </p>
