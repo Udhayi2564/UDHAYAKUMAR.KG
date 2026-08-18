@@ -1,23 +1,24 @@
-UDHAYA KUMAR K G
-<!-- ===================== ANIMATED HEADER ===================== -->
+# UDHAYA KUMAR K G
+
+<!-- ========================================================= -->
+
+<!--                       PREMIUM HEADER                       -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=42&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descAlignY=61&descSize=18&descColor=e2e8f0&animation=twinkling&color=0:0f172a,50:1e3a8a,100:2563eb" width="100%"/>
 </p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Backend+Developer;API+Testing+%26+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLMs;Building+Reliable+Software+Systems" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Backend+Developer;API+Testing+%26+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLMs;Building+Reliable+Software+Systems" alt="Typing Animation"/>
 </p>
-
-<!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+<br>
 
 ---
 
@@ -35,24 +36,46 @@ My goal is to combine **software engineering practices with AI** to build practi
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Artificial Intelligence & Data Science
-* 💻 Interested in Software Engineering & Backend Development
-* 🧪 Interested in API Testing & Quality Engineering
-* 🤖 Exploring Machine Learning, NLP & LLM Applications
-* 🔗 Building REST API and database-driven applications
-* 🧠 Strengthening Data Structures & Algorithms
-* 🐧 Comfortable working with Linux and Git-based workflows
-* 🚀 Interested in building production-oriented software
-* 📚 Continuously learning new technologies and development practices
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎓 **B.Tech Artificial Intelligence & Data Science**
+
+💻 **Interested in Software Engineering & Backend Development**
+
+🧪 **Interested in API Testing & Quality Engineering**
+
+🤖 **Exploring Machine Learning, NLP & LLM Applications**
+
+🔗 **Building REST API and database-driven applications**
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 **Strengthening Data Structures & Algorithms**
+
+🐧 **Comfortable working with Linux and Git-based workflows**
+
+🚀 **Interested in building production-oriented software**
+
+📚 **Continuously learning new technologies and development practices**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏢 Professional Experience
+# 🏢 Professional Experience
 
 ### 🔹 Software & AI Engineering Research Intern
 
 **TIHAN, IIT Hyderabad**
 `Jan 2026 – May 2026`
+
+> **AI Engineering · Computer Vision · Robotics · Testing & Validation**
 
 * Developed AI-powered computer vision modules for robotics navigation and real-time decision systems.
 * Worked in Linux environments using Git and Agile development practices.
@@ -62,6 +85,8 @@ My goal is to combine **software engineering practices with AI** to build practi
 
 **Yaane Technologies LLP**
 `Jan 2025 – Feb 2025`
+
+> **NLP · REST APIs · Data Processing · Backend Validation**
 
 * Built an NLP-based crime classification system achieving **83% prediction accuracy**.
 * Developed REST APIs for legal data processing.
@@ -79,7 +104,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Java • Python • SQL • JavaScript</b>
+  <b>Java</b> • <b>Python</b> • <b>SQL</b> • <b>JavaScript</b>
 </p>
 
 ---
@@ -91,7 +116,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Spring Boot • Spring Data JPA • REST APIs • FastAPI • Flask</b>
+  <b>Spring Boot</b> • <b>Spring Data JPA</b> • <b>REST APIs</b> • <b>FastAPI</b> • <b>Flask</b>
 </p>
 
 ---
@@ -103,7 +128,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>PostgreSQL • MySQL</b>
+  <b>PostgreSQL</b> • <b>MySQL</b>
 </p>
 
 ---
@@ -115,7 +140,7 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Machine Learning • NLP • LLM Applications • TensorFlow • Pandas • NumPy • Scikit-learn</b>
+  <b>Machine Learning</b> • <b>NLP</b> • <b>LLM Applications</b> • <b>TensorFlow</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Scikit-learn</b>
 </p>
 
 ---
@@ -132,6 +157,10 @@ My goal is to combine **software engineering practices with AI** to build practi
 
 </p>
 
+<p align="center">
+  <b>API Testing</b> • <b>Postman</b> • <b>Swagger</b> • <b>Database Validation</b> • <b>Debugging</b> • <b>Software Reliability</b>
+</p>
+
 ---
 
 ## 🔧 Tools & Technologies
@@ -141,44 +170,71 @@ My goal is to combine **software engineering practices with AI** to build practi
 </p>
 
 <p align="center">
-  <b>Git • GitHub • Docker • VS Code • Linux</b>
+  <b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>VS Code</b> • <b>Linux</b>
 </p>
 
 ---
 
 # 🧠 Core Computer Science
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Software Engineering
+
 ```text
-Software Engineering
-├── Object-Oriented Programming
-├── Backend Development
-├── REST APIs
-└── Software Reliability
-
-Data Structures & Algorithms
-├── Arrays
-├── Strings
-├── Searching
-├── Sorting
-└── Problem Solving
-
-Quality Engineering
-├── API Testing
-├── Database Validation
-├── Debugging
-└── Application Reliability
-
-Computer Science
-├── Operating Systems
-└── Computer Networks
-
-AI & Data
-├── Machine Learning
-├── NLP
-├── LLM Applications
-├── Data Analysis
-└── Data Processing
+Object-Oriented Programming
+Backend Development
+REST APIs
+Software Reliability
 ```
+
+### Data Structures & Algorithms
+
+```text
+Arrays
+Strings
+Searching
+Sorting
+Problem Solving
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### Quality Engineering
+
+```text
+API Testing
+Database Validation
+Debugging
+Application Reliability
+```
+
+### Computer Science
+
+```text
+Operating Systems
+Computer Networks
+```
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### AI & Data
+
+```text
+Machine Learning • NLP • LLM Applications • Data Analysis • Data Processing
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -194,17 +250,76 @@ AI & Data
 
 ---
 
+# 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Udhayi2564&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayi2564&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Udhayi2564&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udhayi2564&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
+</p>
 
 ---
 
 # 📜 Certifications
 
-* 🟢 **NVIDIA CUDA Developer Certification**
-* 🔵 **KBA Certified Blockchain Associate**
-* 🌐 **CCNA: Introduction to Networks** — Cisco Networking Academy
-* 🤖 **Introduction to Modern AI** — Cisco Networking Academy
-* 🐍 **Python Essentials 1 & 2** — Cisco Networking Academy & Python Institute
+<table>
+<tr>
+<td align="center">
+
+🟢
+**NVIDIA CUDA Developer Certification**
+
+</td>
+<td align="center">
+
+🔵
+**KBA Certified Blockchain Associate**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🌐
+**CCNA: Introduction to Networks**
+Cisco Networking Academy
+
+</td>
+<td align="center">
+
+🤖
+**Introduction to Modern AI**
+Cisco Networking Academy
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+🐍 **Python Essentials 1 & 2**
+Cisco Networking Academy & Python Institute
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -226,21 +341,25 @@ AI & Data
 
 # 🌱 My Development Journey
 
+<p align="center">
+
 ```text
-Learn
-  ↓
-Build
-  ↓
-Test
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Deploy
-  ↓
-Repeat 🚀
+      LEARN
+        ↓
+      BUILD
+        ↓
+      TEST
+        ↓
+      DEBUG
+        ↓
+     IMPROVE
+        ↓
+     DEPLOY
+        ↓
+   REPEAT 🚀
 ```
+
+</p>
 
 > **Build. Test. Learn. Improve.**
 
@@ -271,23 +390,29 @@ I believe in learning through practical implementation, solving real-world probl
 # ⭐ Support My Work
 
 <p align="center">
-  If you find my projects useful or interesting, consider giving them a ⭐
-</p>
 
-<p align="center">
-  <b>Every star motivates me to build more! 🚀</b>
+If you find my projects useful or interesting, consider giving them a ⭐
+
+<br>
+
+<b>Every star motivates me to build more! 🚀</b>
+
 </p>
 
 ---
 
-<!-- ===================== ANIMATED FOOTER ===================== -->
+<!-- ========================================================= -->
+
+<!--                       PREMIUM FOOTER                       -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=0:2563eb,50:1e3a8a,100:0f172a" width="100%"/>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
+  <b>Thanks for visiting my GitHub profile! 👋</b>
 </p>
 
 <p align="center">
