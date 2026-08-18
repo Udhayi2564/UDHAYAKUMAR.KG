@@ -1,205 +1,295 @@
-<div align="center">
+UDHAYA KUMAR K G
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36bcf7&height=220&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Backend%20%26%20Systems%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=42&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18" width="100%"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Engineering;Machine+Learning+%2F+NLP+%2F+LLM+Systems;Multi-Agent+%26+RAG+Architectures;API+Testing+%26+Quality+Engineering;Building+Reliable%2C+Production-Grade+AI" alt="Typing SVG"/>
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Backend+Developer;API+Testing+%26+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLMs;Building+Reliable+Software+Systems" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+# 👋 Hi, I'm Udhaya Kumar K G
+
+### Software Engineering • AI & Data Science • Backend Development • Quality Engineering
+
+I'm a **B.Tech Artificial Intelligence and Data Science student at KPR Institute of Engineering and Technology**, passionate about building reliable software systems and AI-powered applications.
+
+I enjoy working across **backend development, REST APIs, database systems, API testing, machine learning, NLP, and LLM applications**.
+
+My goal is to combine **software engineering practices with AI** to build practical, scalable, and reliable solutions.
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Artificial Intelligence & Data Science
+* 💻 Interested in Software Engineering & Backend Development
+* 🧪 Interested in API Testing & Quality Engineering
+* 🤖 Exploring Machine Learning, NLP & LLM Applications
+* 🔗 Building REST API and database-driven applications
+* 🧠 Strengthening Data Structures & Algorithms
+* 🐧 Comfortable working with Linux and Git-based workflows
+* 🚀 Interested in building production-oriented software
+* 📚 Continuously learning new technologies and development practices
+
+---
+
+## 🏢 Professional Experience
+
+### 🔹 Software & AI Engineering Research Intern
+
+**TIHAN, IIT Hyderabad**
+`Jan 2026 – May 2026`
+
+* Developed AI-powered computer vision modules for robotics navigation and real-time decision systems.
+* Worked in Linux environments using Git and Agile development practices.
+* Contributed to testing, validation, and deployment of AI-driven software systems.
+
+### 🔹 Data Engineer Intern
+
+**Yaane Technologies LLP**
+`Jan 2025 – Feb 2025`
+
+* Built an NLP-based crime classification system achieving **83% prediction accuracy**.
+* Developed REST APIs for legal data processing.
+* Performed backend validation, analytics workflows, debugging, and optimization of data processing pipelines.
+* Improved application reliability and performance through testing and workflow optimization.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+<p align="center">
+  <b>Java • Python • SQL • JavaScript</b>
+</p>
+
+---
+
+## ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask" />
+</p>
+
+<p align="center">
+  <b>Spring Boot • Spring Data JPA • REST APIs • FastAPI • Flask</b>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+<p align="center">
+  <b>PostgreSQL • MySQL</b>
+</p>
+
+---
+
+## 🤖 AI & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+</p>
+
+<p align="center">
+  <b>Machine Learning • NLP • LLM Applications • TensorFlow • Pandas • NumPy • Scikit-learn</b>
+</p>
+
+---
+
+## 🧪 Testing & Quality Engineering
+
+<p align="center">
+
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Database Testing](https://img.shields.io/badge/Database%20Validation-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![QA](https://img.shields.io/badge/Quality%20Engineering-6A5ACD?style=for-the-badge)
+
+</p>
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+</p>
+
+<p align="center">
+  <b>Git • GitHub • Docker • VS Code • Linux</b>
+</p>
+
+---
+
+# 🧠 Core Computer Science
+
+```text
+Software Engineering
+├── Object-Oriented Programming
+├── Backend Development
+├── REST APIs
+└── Software Reliability
+
+Data Structures & Algorithms
+├── Arrays
+├── Strings
+├── Searching
+├── Sorting
+└── Problem Solving
+
+Quality Engineering
+├── API Testing
+├── Database Validation
+├── Debugging
+└── Application Reliability
+
+Computer Science
+├── Operating Systems
+└── Computer Networks
+
+AI & Data
+├── Machine Learning
+├── NLP
+├── LLM Applications
+├── Data Analysis
+└── Data Processing
+```
+
+---
+
+# 💻 Developer Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Coding Animation"/>
+</p>
+
+<p align="center">
+  <i>Turning ideas into code, data into insights, and problems into solutions.</i>
+</p>
+
+---
+
+
+
+---
+
+# 📜 Certifications
+
+* 🟢 **NVIDIA CUDA Developer Certification**
+* 🔵 **KBA Certified Blockchain Associate**
+* 🌐 **CCNA: Introduction to Networks** — Cisco Networking Academy
+* 🤖 **Introduction to Modern AI** — Cisco Networking Academy
+* 🐍 **Python Essentials 1 & 2** — Cisco Networking Academy & Python Institute
+
+---
+
+# 🎯 Currently Learning
+
+<p align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20%26%20ML-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Applications-8A2BE2?style=for-the-badge)
+
+</p>
+
+---
+
+# 🌱 My Development Journey
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Test
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Deploy
+  ↓
+Repeat 🚀
+```
+
+> **Build. Test. Learn. Improve.**
+
+I believe in learning through practical implementation, solving real-world problems, writing maintainable code, and continuously improving software quality.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Udhayi2564">
+  <img src="https://img.shields.io/badge/GitHub-Udhayi2564-181717?style=for-the-badge&logo=github" />
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/in/udhaya-kumar-kg-2a5370330/">
+  <img src="https://img.shields.io/badge/LinkedIn-Udhaya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views"/>
-<a href="https://www.linkedin.com/in/udhaya-kumar-kg-2a5370330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:udhayi2564@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:udhayi2564@gmail.com">
+  <img src="https://img.shields.io/badge/Email-udhayi2564%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div>
+</p>
 
-<br/>
+---
 
-## About
+# ⭐ Support My Work
 
-B.Tech student in **Artificial Intelligence and Data Science** at KPR Institute of Engineering and Technology, building software that sits at the intersection of **backend engineering** and **applied AI**. My work spans REST APIs and database systems, retrieval-augmented and multi-agent LLM pipelines, and the testing discipline needed to make those systems trustworthy in production.
+<p align="center">
+  If you find my projects useful or interesting, consider giving them a ⭐
+</p>
 
-- 🔭 Currently building a **fairness-aware adaptive KV cache eviction** scheme for multi-instruction LLM inference, targeting an IEEE publication
-- 🧪 Interested in **API testing & quality engineering** — Postman, Swagger, database validation, and reliability-first workflows
-- 🤖 Building with **RAG pipelines, multi-agent orchestration, and NL-to-SQL systems**
-- 🛡️ Exploring **vulnerability detection research**, anchored to the PrimeVul benchmark and contrastive/differential reasoning approaches
-- 🌱 Sharpening **Data Structures & Algorithms** and backend fundamentals in Java/Spring Boot
-- 🐧 Comfortable in Linux environments, Git-based workflows, and Agile teams
+<p align="center">
+  <b>Every star motivates me to build more! 🚀</b>
+</p>
 
-<br/>
+---
 
-## Experience
+<!-- ===================== ANIMATED FOOTER ===================== -->
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
 
-**Software & AI Engineering Research Intern**
-*TIHAN, IIT Hyderabad* · Jan 2026 – May 2026
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
 
-- Developed AI-powered computer vision modules for robotics navigation and real-time decision systems
-- Worked in Linux environments using Git and Agile practices
-- Contributed to testing, validation, and deployment of AI-driven software systems
-
-</td>
-<td width="50%" valign="top">
-
-**Data Engineer Intern**
-*Yaane Technologies LLP* · Jan 2025 – Feb 2025
-
-- Built an NLP-based crime classification system achieving **83% prediction accuracy**
-- Developed REST APIs for legal data processing
-- Ran backend validation, analytics workflows, and pipeline optimization
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Adaptive Multi-Agent AI Copilot
-Full-stack platform for autonomous data science workflow optimization.
-`CrewAI` `FastAPI` `Next.js` `Optuna` `MLflow` `ChromaDB` `SHAP` `LightGBM` `XGBoost`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 DocRAG — Production RAG Chatbot
-Document Q&A chatbot with streaming responses over a retrieval pipeline.
-`FastAPI` `React` `ChromaDB` `LangChain` `SSE Streaming`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 NL-Powered BI Query Engine
-Natural language → SQL analytics engine with live chart rendering.
-`Groq API` `Llama 3` `FastAPI` `React` `Recharts` `ChromaDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛸 AeroSentry
-Edge-AI swarm UAV system for autonomous aircraft inspection — built for Tata Technologies InnoVent 2026.
-`Edge AI` `Swarm Robotics` `Computer Vision`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Fairness-Aware KV Cache Eviction
-Final-year research on fairness-aware adaptive KV cache eviction for multi-instruction LLM inference, targeting IEEE publication.
-`LLM Inference` `Systems Research` `Jain's Fairness Index`
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 CreditPulse
-AI-driven cash-flow credit scoring for MSMEs on India's Account Aggregator / OCEN infrastructure.
-`Fintech` `Credit Scoring` `AA/OCEN`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js" /><br/>
-Java · Python · SQL · JavaScript
-
-<br/><br/>
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask" /><br/>
-Spring Boot · Spring Data JPA · REST APIs · FastAPI · Flask
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
-PostgreSQL · MySQL
-
-<br/><br/>
-
-**AI & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,python" /><br/>
-Machine Learning · NLP · LLM Applications · Groq API · ChromaDB · LangChain · TensorFlow · Pandas · NumPy · Scikit-learn
-
-<br/><br/>
-
-**Testing & Quality Engineering**
-<br/>
-<img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Database%20Validation-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" /><br/>
-Git · GitHub · Docker · VS Code · Linux
-
-</div>
-
-<br/>
-
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| NVIDIA CUDA Developer Certification | NVIDIA |
-| Certified Blockchain Associate (KBA) | Blockchain Council |
-| CCNA: Introduction to Networks | Cisco Networking Academy |
-| Introduction to Modern AI | Cisco Networking Academy |
-| Python Essentials 1 & 2 | Cisco / Python Institute |
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Udhayi2564&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayi2564&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayi2564&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/Udhayi2564"><img src="https://img.shields.io/badge/GitHub-Udhayi2564-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/udhaya-kumar-kg-2a5370330/"><img src="https://img.shields.io/badge/LinkedIn-Udhaya%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:udhayi2564@gmail.com"><img src="https://img.shields.io/badge/Email-udhayi2564%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<i>Build. Test. Learn. Improve.</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:0f2027&height=100&section=footer" width="100%"/>
+<p align="center">
+  <i>Keep learning • Keep building • Keep improving 🚀</i>
+</p>
