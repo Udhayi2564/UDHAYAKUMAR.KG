@@ -1,22 +1,23 @@
+# UDHAYA KUMAR K G
 
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=42&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=UDHAYA%20KUMAR%20K%20G&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descAlignY=62&descSize=18&descColor=E2E8F0&animation=twinkling&color=0:0F172A,100:2563EB" width="100%" alt="Header"/>
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Backend+Developer;API+Testing+%26+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLMs;Building+Reliable+Software+Systems" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=850&height=60&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Backend+Developer;API+Testing+%26+Quality+Engineering;Machine+Learning+%7C+NLP+%7C+LLMs;Building+Reliable+Software+Systems" alt="Typing SVG"/>
   </a>
 </p>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Udhayi2564&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -276,10 +277,10 @@ I believe in learning through practical implementation, solving real-world probl
 
 ---
 
-<!-- ===================== ANIMATED FOOTER ===================== -->
+<!-- ===================== PREMIUM ANIMATED FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=0:2563EB,100:0F172A" width="100%" alt="Footer"/>
 </p>
 
 <p align="center">
